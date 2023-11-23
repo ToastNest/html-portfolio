@@ -1,2 +1,2 @@
 # html-portfolio
-Portfolio of Ernest using basic HTML
+Sample Portfoliot using basic HTML
